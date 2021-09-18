@@ -1,0 +1,113 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.container{
+  width: 850px;
+  height: 660px;
+  margin: auto;
+  background: rgba(0,0,0,0.5);
+  border-radius: 15px 15px 15px 15px;
+  padding-bottom: 20px;
+}
+
+div.container img{
+  width: 150px;
+  margin-top: 30px;
+  margin-left: 350px;
+  position: relative;
+  top: 40px;
+  opacity: 1.0;
+}
+
+h1{
+  color: #00dd00;
+  text-align: center;
+  position: relative;
+  top: 20px;
+}
+
+nav{
+  text-align: center;
+  width: 700px;
+  height: 30px;
+  background-color: #00dd00;
+  margin: auto;
+  padding-top: 10px;
+}
+nav > input{
+  width: 100px;
+  height: 20px;
+
+}
+
+#prenota{
+  width: 70px;
+}
+
+#termina{
+  width: 150px;
+}
+
+main{
+  width: 700px;
+  margin: auto;
+}
+
+h2{
+  display: inline;
+  color: white;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+p{
+  color: white;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  position: relative;
+  bottom: 20px;
+}
+
+span{
+  color: white;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  position: relative;
+  bottom: 30px;
+}
+
+#media{
+  width: 300px;
+  border-radius: 5px 5px 5px 5px;
+  background-color: #f5b453;
+  color: #f5b453;
+  position: relative;
+  bottom: 45px;
+}
+
+.secondo{
+  position: relative;
+  bottom: 50px;
+}
+
+#alta{
+  width: 500px;
+  border-radius: 5px 5px 5px 5px;
+  background-color: #1ec31e;
+  color: #1ec31e;
+  position: relative;
+  bottom: 45px;
+}
+
+.terzo{
+  position: relative;
+  bottom: 100px;
+}
+
+#bassa{
+  width: 150px;
+  border-radius: 5px 5px 5px 5px;
+  background-color: #be4141;
+  color: #be4141;
+  position: relative;
+  bottom: 45px;
+}
